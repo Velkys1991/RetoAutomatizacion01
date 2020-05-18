@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Formulario Block Validation","Digilenciamiento exitoso del formulario Block Validation,","SUCCESS","19:03:57","0.0","15.25"
+"Formulario Popup Validation","Digilenciamiento exitoso del formulario Popup Validation,","FAILURE","13:49:29","0.0","16.09"
+"Formulario Popup Validation","Digilenciamiento con errores del formulario Popup Validation,","ERROR","17:36:15","0.0","48.93"
