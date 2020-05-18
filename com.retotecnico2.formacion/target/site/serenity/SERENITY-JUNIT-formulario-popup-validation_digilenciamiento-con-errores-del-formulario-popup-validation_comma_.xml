@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Formulario Popup Validation" skipped="0" tests="1" time="47.11" timestamp="2020-05-11T19:41:27.365-05:00[America/Bogota]"><testcase name="Digilenciamiento con errores del formulario Popup Validation,"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.choucair.formacion.pageobjects.ColorlibFormValidationPage.Select_Sport(ColorlibFormValidationPage.java:83)&#13;
+com.choucair.formacion.steps.ColorlibFormValidationSteps.diligenciar_popup_datos_tabla(ColorlibFormValidationSteps.java:17)&#13;
+com.choucair.formacion.definition.PopupValidationDefinition.diligencio_Formulario_Popup_Validation(PopupValidationDefinition.java:37)&#13;
+✽.When Diligencio Formulario Popup Validation(src/test/resources/features/Colorlib/Forms/PopupValidation.feature:43)&#13;
+</system-err></testcase></testsuite>

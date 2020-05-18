@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Como Analista de una célula de pruebas," skipped="0" tests="1" time="68.63" timestamp="2020-05-15T12:18:10.067-05:00[America/Bogota]"><testcase name="Se registra el diligenciamiento de la ceacion de tableros en la App Trello,"><failure message="&#10;Expected: is &lt;false&gt;&#10;     but: was &lt;true&gt;" type="java.lang.AssertionError">
+Expected: is &lt;false&gt;
+     but: was &lt;true&gt;</failure><system-err>
+Expected: is &lt;false&gt;
+     but: was &lt;true&gt;&#13;
+com.retotecnico2.formacion.pageobjects.Trello2FormValidationPage.form_sin_errores(Trello2FormValidationPage.java:56)&#13;
+com.retotecnico2.formacion.steps.Trello2FormValidationSteps.verificar_creacion_de_Tableros_exitosos(Trello2FormValidationSteps.java:24)&#13;
+com.retotecnico2.formacion.definition.TrelloDefinition.verifica_la_creación_exitosa_de_los_tableros(TrelloDefinition.java:76)&#13;
+✽.Then verifica la creación exitosa de los tableros.(src/test/resources/features/Trello/Forms/TrelloLoginValidation.feature:44)&#13;
+</system-err></testcase></testsuite>
